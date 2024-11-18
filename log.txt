@@ -1,0 +1,8 @@
+INFO: System started
+ERROR: Missing configuration file
+WARNING: Disk usage is above 85%
+INFO: User logged in
+ERROR: Failed to connect to database
+NOT KEY VALUE PAIR
+INFO: System shutdown
+CRITICAL: Production System is Down
